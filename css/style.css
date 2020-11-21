@@ -9314,6 +9314,8 @@ textarea.form-control {
     .ftco-footer a:hover {
       color: #fff; }
   .ftco-footer .ftco-heading-2 {
+    font-family: inherit;
+    font-style: inherit;
     font-size: 17px;
     font-weight: 400;
     color: #000000; }
